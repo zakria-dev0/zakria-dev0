@@ -5,20 +5,20 @@
 
 - 🎓 **Education:** Software Engineer & Solutions Architect
 - 💻 **Working as:** Senior Full Stack Developer | AI/ML Engineer | Solutions Architect
-- 🌍 **Location:** United States
-- 📫 **How to reach me:** You can contact me at **your.email@example.com**
+- 🌍 **Location:** Massachusetts, United States
+- 📫 **How to reach me:** You can contact me at **mrehmanzakria@gmail.com**
 
 <div>
 <p>
 Senior Software Engineer and Solutions Architect with 8+ years of comprehensive experience in full-stack development, AI/ML engineering, and cloud architecture. Specialized in designing and deploying enterprise-grade solutions across fintech, healthcare, SaaS, and e-commerce domains. Expert in building scalable microservices architectures, implementing CI/CD pipelines, and integrating cutting-edge AI/ML capabilities into production systems. Proficient in modern tech stack including React.js, Next.js, Node.js, Python, Django, FastAPI, TensorFlow, PyTorch, and cloud platforms (AWS, Azure, GCP). Proven track record of architecting end-to-end solutions from initial design through deployment, leveraging DevOps best practices, containerization (Docker, Kubernetes), and Infrastructure as Code. Strong expertise in translating complex business requirements into robust, scalable, and maintainable solutions while leading cross-functional teams and delivering measurable business impact.
 </p>
     
-<a href="https://www.linkedin.com/in/zakria/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/zakria/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center"/>
 </a>
 <a href="https://yourportfolio.com/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" align="center"/>
-</a>
+</a> -->
 </div>
 
 ## 🚀 Languages, Tools & Technologies
@@ -56,6 +56,14 @@ Senior Software Engineer and Solutions Architect with 8+ years of comprehensive 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" align="center" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" align="center" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" align="center" />
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram" align="center" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" align="center" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" align="center" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" align="center" />
+<img src="https://img.shields.io/badge/Claude_AI-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" align="center" />
+<img src="https://img.shields.io/badge/Sandboxes-FF9900?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Sandboxes" align="center" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" align="center" />
+
 </div>
 
 ### Databases
@@ -92,10 +100,6 @@ Senior Software Engineer and Solutions Architect with 8+ years of comprehensive 
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakria-dev0&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakria-dev0&theme=radical" alt="GitHub Streak" />
